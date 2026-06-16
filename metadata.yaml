@@ -2,6 +2,6 @@ name: astrbot_plugin_atrelay
 display_name: 群艾特
 desc: AstrBot at消息中继插件
 help: 用于消息中继的插件
-version: 1.0.0
+version: 1.0.1
 author: 那四个字 & miko
-repo: ""
+repo: https://github.com/larzision/larzision
