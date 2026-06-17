@@ -1,7 +1,0 @@
-name: astrbot_plugin_atrelay
-display_name: 艾特转发
-desc: AstrBot 在群聊中转发消息的插件
-help: 用于群聊中转发消息的插件
-version: 1.1.0
-author: 那四个字 & miko
-repo: https://github.com/larzision/larzision
